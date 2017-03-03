@@ -14,4 +14,4 @@ dependencies {
     testCompile 'junit:junit:4.12'
 }
 
-mainClassName = "com.okurahn.smoothie.Gui"
+mainClassName = "com.okurahn.smoothie.gui.JFXFilter"
